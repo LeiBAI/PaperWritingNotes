@@ -7,6 +7,7 @@ Some personal thoughts about writing scientific papers
 * 是否匿名
   
 2. 动笔前想清楚paper的核心卖点
+* 一个好论文的核心（最大的）卖点应该只有一个，如果是多个的话可能是没总结到位、每个卖点都不足够significant、这是多个工作
 * 核心卖点足够好的话，缺点会是美中不足；核心卖点不够好的话，优点也会是trivial
 * 围绕核心卖点构思题目来突出核心卖点
   
