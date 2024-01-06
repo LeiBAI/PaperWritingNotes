@@ -1,14 +1,14 @@
 # PaperWritingNotes
-Some thoughts about writing scientific papers
+Some personal thoughts about writing scientific papers
 
-1. check投稿venue的要求 
- a. 字数/页数 
- b. latex模版/word 
- c. 是否匿名 
-2. 动笔前想清楚paper的核心卖点 
+1. check投稿venue的要求
+* 字数/页数
+* latex模版/word
+* 是否匿名 
+3. 动笔前想清楚paper的核心卖点 
  a. 核心卖点足够好的话，缺点会是美中不足；核心卖点不够好的话，优点也会是trivial 
  b. 围绕核心卖点构思题目来突出核心卖点 
-3. 动笔前，构思好整体的结构安排 
+4. 动笔前，构思好整体的结构安排 
  a. 所有的结构安排都应该是围绕核心卖点考虑的 
  b. 和核心卖点相关的要多写，从背景、解决的问题、宏观idea、细节、定性、定量分析、理论证明等，前前后后都考虑到，能多solid，就多solid 
  c. 结合relate work和背景，为什么这个核心卖点重要 
