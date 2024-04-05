@@ -2,6 +2,8 @@
 Some personal thoughts about writing scientific papers
 
 1. 首先要check计划投稿venue的要求
+* DDL、Abstract DDL
+* Abs DDL后是否可以修改author、修改author list等
 * 字数/页数
 * latex模版/word
 * 是否匿名
