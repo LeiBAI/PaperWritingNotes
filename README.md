@@ -65,3 +65,4 @@ Some personal thoughts about writing scientific papers
 26. 语法、符号、下标、typo等这些需要仔细的check，甚至可以找人一起check，如果有这种低级错误，回很大程度上让reviewer的印象分降低，borderline会变成weak reject 
 27. 可以找你不是做这个方向的朋友、舍友看看，有任何他不懂的地方说明都是可以提高的
 28. 用Latex写的时候，reference的bib最好用google默认的，这样大家协作编辑的时候可以避免ref重复
+29. 写法是总分还是递进
