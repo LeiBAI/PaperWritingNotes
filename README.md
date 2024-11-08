@@ -66,3 +66,5 @@ Some personal thoughts about writing scientific papers
 27. 可以找你不是做这个方向的朋友、舍友看看，有任何他不懂的地方说明都是可以提高的
 28. 用Latex写的时候，reference的bib最好用google默认的，这样大家协作编辑的时候可以避免ref重复
 29. 写法是总分还是递进
+
+# Rebuttal Notes
